@@ -1,8 +1,6 @@
 from app.operations import Operations
 
-# Now we're going to create the main function called "calculator". 
-# A function is just a block of code that does something when you call it, kind of like a recipe that tells the 
-# computer what to do.
+
 def calculator():
     """Basic REPL calculator that performs addition, subtraction, multiplication, and division."""
     
